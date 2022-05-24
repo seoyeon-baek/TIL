@@ -1,7 +1,7 @@
-#TIL
+# TIL
 >****JNP MEDI**** 인턴 전, 짧으면 짧고 길면 긴 100일간 학습한 내용을 기록한 레포
 
-###학습 목표
+### 학습 목표
 - Javscript의 기본기 다지기
     - 모던 자바스크립트 De p Dive
     - [클린코드 자바스크립트](https://www.udemy.com/course/clean-code-js/learn/lecture/28091950?start=0#overview)
